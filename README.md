@@ -1,2 +1,2 @@
 # courseware
-A place to save my courseware. Features: diverse, multidimensional, update aperiodically.
+A place to keep my courseware. Features: diverse, multidimensional, update aperiodically.
